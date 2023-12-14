@@ -23,6 +23,7 @@ And others: Redis, Celery, Docker, Linux, Git, ReGex ..
 * Graduation Year: 2025
 
 ## Languages
+* Kumyk (Native)
 * Russian (Native)
 * English (B2)
 
