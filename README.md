@@ -9,11 +9,11 @@ I realized that I wanted to be a programmer at the age of 12
 
 ## Skills
 * Python, Java, Go
-* HTML, CSS, JavaScript 
-* SQL, PostgreSQL
+* HTML, CSS, JavaScript, React
+* SQL, PostgreSQL, Redis
 * FastAPI, Django, Flask, REST
   
-And others: Redis, Celery, Docker, Linux, Git, ReGex ..
+And others: Selenium, Aiogram3, Zustand, Celery, Docker, Linux, Git, ReGex ..
 
 ## Education
 * Level: High, Bachelor
@@ -25,6 +25,6 @@ And others: Redis, Celery, Docker, Linux, Git, ReGex ..
 ## Languages
 * Kumyk (Native)
 * Russian (Native)
-* English (B2)
+* English (A2)
 
 ## Experience
